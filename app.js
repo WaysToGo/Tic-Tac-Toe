@@ -32,7 +32,7 @@ function restart(){
     
 
 }
-
+ 
 
 const cells = document.querySelectorAll('.cell');
 
